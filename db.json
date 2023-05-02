@@ -6,6 +6,12 @@
       "password": "Sachin@582",
       "email": "gtatterton0@ehow.com",
       "mobile": 9528124125
+    },{
+      "id": 2,
+      "name": "Sachin pandey",
+      "password": "Sachin@123",
+      "email": "sachinpandey@gmail.com",
+      "mobile": 9528124125
     }
   ]
 }
